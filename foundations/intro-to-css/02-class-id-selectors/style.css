@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-numbers {
+    background-color:lightcoral;
+    font-family: Verdana, sans-serif;
+}
+
+#two {
+    color: rgb(0, 19, 127);
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsl(138, 82%, 56%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd-font {
+    font-size: 24px;
+}
