@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd-numbers {
     background-color:lightcoral;
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, "DeJaVu Sans", sans-serif;
 }
 
 #two {
@@ -11,7 +11,6 @@
 
 #four {
     background-color: hsl(138, 82%, 56%);
-    font-size: 24px;
     font-weight: bold;
 }
 
